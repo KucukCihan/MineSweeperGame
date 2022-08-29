@@ -28,7 +28,8 @@
 ![tyyy](https://user-images.githubusercontent.com/108719715/187312746-2ac7fe74-65e9-4acb-bda4-964e662e3b80.png)
 
 ## After the warning we can enter integers in interval, and by adding them we check the safety of that location;
-![4343](https://user-images.githubusercontent.com/108719715/187313206-21fe52e5-6e5a-45d1-be12-fd98ea05a999.png)
+![4343](https://user-images.githubusercontent.com/108719715/187315679-406ce48a-9643-49b0-9d7a-c3397aae9d74.png)
+
 
 ## By doing this until there are no more safe locations, you win the game.
 ## If you step on a mine you lose simple as that.
